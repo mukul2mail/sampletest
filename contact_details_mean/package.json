@@ -1,0 +1,18 @@
+{
+  "name": "contact_details_mean",
+  "version": "1.0.0",
+  "description": "save contact details into the mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "mukul wadhwa",
+  "license": "ISC",
+  "dependencies" : {
+    "express": "latest",
+    "angular": "latest",
+    "mongojs": "latest",
+    "body-parser": "latest"
+  }
+}
